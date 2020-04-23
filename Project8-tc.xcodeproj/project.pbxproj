@@ -11,6 +11,7 @@
 		FA47463F2451DA7300B00181 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA47463E2451DA7300B00181 /* ViewController.swift */; };
 		FA4746412451DA7400B00181 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4746402451DA7400B00181 /* Assets.xcassets */; };
 		FA4746442451DA7400B00181 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA4746422451DA7400B00181 /* Main.storyboard */; };
+		FA47464D2451DABD00B00181 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FA47464C2451DABD00B00181 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		FA4746432451DA7400B00181 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FA4746452451DA7400B00181 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA4746462451DA7400B00181 /* Project8_tc.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Project8_tc.entitlements; sourceTree = "<group>"; };
+		FA47464C2451DABD00B00181 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +39,7 @@
 		FA4746302451DA7300B00181 = {
 			isa = PBXGroup;
 			children = (
+				FA47464C2451DABD00B00181 /* README.md */,
 				FA47463B2451DA7300B00181 /* Project8-tc */,
 				FA47463A2451DA7300B00181 /* Products */,
 			);
@@ -121,6 +124,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA47464D2451DABD00B00181 /* README.md in Resources */,
 				FA4746412451DA7400B00181 /* Assets.xcassets in Resources */,
 				FA4746442451DA7400B00181 /* Main.storyboard in Resources */,
 			);
