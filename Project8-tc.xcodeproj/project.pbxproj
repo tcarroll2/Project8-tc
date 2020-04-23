@@ -12,6 +12,8 @@
 		FA4746412451DA7400B00181 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4746402451DA7400B00181 /* Assets.xcassets */; };
 		FA4746442451DA7400B00181 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA4746422451DA7400B00181 /* Main.storyboard */; };
 		FA47464D2451DABD00B00181 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FA47464C2451DABD00B00181 /* README.md */; };
+		FA47464F2451FA2000B00181 /* GameOverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA47464E2451FA2000B00181 /* GameOverView.swift */; };
+		FA474651245202F100B00181 /* WindowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA474650245202F100B00181 /* WindowController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		FA4746452451DA7400B00181 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA4746462451DA7400B00181 /* Project8_tc.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Project8_tc.entitlements; sourceTree = "<group>"; };
 		FA47464C2451DABD00B00181 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		FA47464E2451FA2000B00181 /* GameOverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOverView.swift; sourceTree = "<group>"; };
+		FA474650245202F100B00181 /* WindowController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WindowController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			children = (
 				FA47463C2451DA7300B00181 /* AppDelegate.swift */,
 				FA47463E2451DA7300B00181 /* ViewController.swift */,
+				FA47464E2451FA2000B00181 /* GameOverView.swift */,
+				FA474650245202F100B00181 /* WindowController.swift */,
 				FA4746402451DA7400B00181 /* Assets.xcassets */,
 				FA4746422451DA7400B00181 /* Main.storyboard */,
 				FA4746452451DA7400B00181 /* Info.plist */,
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA47463F2451DA7300B00181 /* ViewController.swift in Sources */,
+				FA474651245202F100B00181 /* WindowController.swift in Sources */,
+				FA47464F2451FA2000B00181 /* GameOverView.swift in Sources */,
 				FA47463D2451DA7300B00181 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
